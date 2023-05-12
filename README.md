@@ -23,3 +23,6 @@ Para mantener en un solo lugar los scripts en Kraken de los 20 escenarios de pru
 
 ## Pros/Contras Cypress y Kraken
 [Pros/Contras Cypress y Kraken](https://github.com/Molvilada/Pruebas_E2E_Grupo_17/wiki/Pros-Contras-Cypress-y-Kraken)
+
+## Pros/Contras ResembleJs y BackstopJS
+[Pros/Contras Cypress y Kraken]
