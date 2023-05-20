@@ -14,7 +14,7 @@ Hemos elaborado una hoja de cálculo en la que detallamos de manera precisa cada
 Durante la ejecución de las pruebas, algunas fallaron como consecuencia de errores propios de Ghost. Estas pruebas se resaltaron en color rojo y se les asignó una incidencia correspondiente, como se muestra en la imagen:
 ![image](https://github.com/CamiloRamirezR/Pruebas_Generacion_Datos_Grupo_17/assets/17149432/6457f195-1e1e-48a4-92d8-e26c256c0fc6)
 
-Por otro lado, aunque algunas pruebas no presentaron fallas, durante su ejecución identificamos errores adicionales que también se reportaron como incidencias. Estas pruebas se resaltaron en color amarillo, tal como se muestra en la imagen:
+Por otro lado, aunque algunas pruebas no presentaron fallas, durante su ejecución identificamos errores adicionales, como por ejemplo áreas de mejora o posibles problemas en la interfaz o el comportamiento del sistema, que también se reportaron como incidencias. Estas pruebas se resaltaron en color amarillo, tal como se muestra en la imagen:
 ![image](https://github.com/CamiloRamirezR/Pruebas_Generacion_Datos_Grupo_17/assets/17149432/de765dfd-1c2d-4241-bea6-859b5a7fafba)
 
 Por lo cuál al correr los 120 escenarios, no todos van a pasar y estos son los que hemos marcado en rojo.
@@ -38,3 +38,14 @@ En cuanto a los 94 escenarios restantes, se optó por desarrollarlos exclusivame
 <hr/>
 
 **2. Descripción de las estrategias usadas y cómo se integran estas estrategias en los escenarios de pruebas. Se debe evidenciar en la descripción que se usan las tres estrategias solicitadas: pool de datos a-priori, pool de datos (pseudo) aleatorio dinámico y escenario aleatorio.**
+
+En el [siguiente link](https://github.com/CamiloRamirezR/Prueba_Generacion_Datos_Cypress/wiki/Descripci%C3%B3n-estrategias) se puede observar la descripción de las estrategias de utilizamos y como las implementamos. 
+
+**_Nota_**: Para saber que estrategia se utilizo especificamente en cada escenario, puede revisar la [hoja de cálculo](https://uniandes-my.sharepoint.com/:x:/g/personal/ld_molina11_uniandes_edu_co/EQLNOAClGmZPqHEsnikAkTwBQ5vvZPJeeqVltoQnUci4pw?e=LltiaR) que hicimos en la que describimos cada escenario.
+
+<hr/>
+
+**3. Se reportan, en el sistema de registro de incidencias, por lo menos 10 defectos por manejo de datos inválidos.**
+
+La incidencias observadas se reportaron en el [sistema de registro de incidencias](https://github.com/santi8194/ghost-grupo-17/issues).
+
