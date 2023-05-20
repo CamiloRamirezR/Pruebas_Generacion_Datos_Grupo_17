@@ -22,10 +22,10 @@ Por lo cuál al correr los 120 escenarios, no todos van a pasar y estos son los 
 [Link escenarios de prueba](https://uniandes-my.sharepoint.com/:x:/g/personal/ld_molina11_uniandes_edu_co/EQLNOAClGmZPqHEsnikAkTwBQ5vvZPJeeqVltoQnUci4pw?e=LltiaR)
 
 ## Escenarios probados con Cypress
-Para mantener en un solo lugar los scripts en Cypress creamos un repositorio independiente. El README del repositorio explica cómo se pueden ejecutar los scripts correspondientes. De 120 escenarios, 107 se crearon en en esta herramienta. [Link repositorio](https://github.com/CamiloRamirezR/Prueba_Generacion_Datos_Cypress)
+Para mantener en un solo lugar los scripts en Cypress creamos un repositorio independiente. El README del repositorio explica cómo se pueden ejecutar los scripts correspondientes. De 120 escenarios, 107 se crearon en esta herramienta. [Link repositorio](https://github.com/CamiloRamirezR/Prueba_Generacion_Datos_Cypress)
 
 ## Escenarios probados con Kraken
-Para mantener en un solo lugar los scripts en Kraken de los 20 escenarios de prueba, creamos un repositorio independiente. El README del repositorio explica cómo se pueden ejecutar los scripts correspondientes [Link repositorio](https://github.com/CamiloRamirezR/Pruebas_Generacion_Datos_Kraken)
+Para mantener en un solo lugar los scripts en Kraken, creamos un repositorio independiente. El README del repositorio explica cómo se pueden ejecutar los scripts correspondientes. De 120 escenarios, 13 se crearon en esta herramienta. [Link repositorio](https://github.com/CamiloRamirezR/Pruebas_Generacion_Datos_Kraken)
 
 ## Resumen actividades
 
