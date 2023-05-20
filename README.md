@@ -41,7 +41,7 @@ En cuanto a los 94 escenarios restantes, se optó por desarrollarlos exclusivame
 
 En el [siguiente link](https://github.com/CamiloRamirezR/Prueba_Generacion_Datos_Cypress/wiki/Descripci%C3%B3n-estrategias) se puede observar la descripción de las estrategias de utilizamos y como las implementamos. 
 
-**_Nota_**: Para saber que estrategia se utilizo especificamente en cada escenario, puede revisar la [hoja de cálculo](https://uniandes-my.sharepoint.com/:x:/g/personal/ld_molina11_uniandes_edu_co/EQLNOAClGmZPqHEsnikAkTwBQ5vvZPJeeqVltoQnUci4pw?e=LltiaR) que hicimos en la que describimos cada escenario.
+**_Nota_**: Para saber que estrategia se utilizo especificamente en cada escenario, puede revisar la [hoja de cálculo](https://uniandes-my.sharepoint.com/:x:/g/personal/ld_molina11_uniandes_edu_co/EQLNOAClGmZPqHEsnikAkTwBQ5vvZPJeeqVltoQnUci4pw?e=LltiaR) que hicimos con la descripción cada escenario.
 
 <hr/>
 
