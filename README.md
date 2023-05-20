@@ -31,7 +31,7 @@ Para mantener en un solo lugar los scripts en Kraken, creamos un repositorio ind
 
 **1. Código de los escenarios de prueba que usan las tres estrategias de generación de datos y permiten generar 120 escenarios diferentes. Los escenarios son funcionales y en el readme del repo se detallan las instrucciones para ejecutarlos. Estas instrucciones deben llevar a la ejecución de los escenarios**
 
-Se decidió reutilizar 26 escenarios de los 40 escenarios creados anteriormente para la entrega de la semana 5, 13 en  Kraken y 13 Cypress, en las cuáles ya estabamos utilizando la estrategia de generación de datos aleatoria. 
+Se decidió reutilizar 26 escenarios de los 40 escenarios creados anteriormente para la entrega de la semana 5, 13 en  Kraken y 13 Cypress, en los cuáles ya estabamos utilizando la estrategia de generación de datos aleatoria. 
 
 En cuanto a los 94 escenarios restantes, se optó por desarrollarlos exclusivamente en Cypress debido a nuestra familiaridad con esta herramienta. Dentro del repositorio de Cypress, se pueden encontrar tres carpetas: "a_priori", "dinámico" y "aleatorio". En cada una de estas carpetas se encuentran los escenarios correspondientes que fueron diseñados siguiendo la estrategia a priori, dinámica y aleatoria, respectivamente.
 
