@@ -19,6 +19,8 @@ Por otro lado, aunque algunas pruebas no presentaron fallas, durante su ejecuci�
 
 Por lo cuál al correr los 120 escenarios, no todos van a pasar y estos son los que hemos marcado en rojo.
 
+**_Nota:_** Hemos notado que algunos escenarios que hicimos para probar caracteres especiales, a pesar de que la mayoría de veces PASAN, hay veces que FALLAN, pero lo que hemos observado por el momento es que las que FALLAN son por compatibilidad con el navegador o problemas directos de Cypress.
+
 [Link escenarios de prueba](https://uniandes-my.sharepoint.com/:x:/g/personal/ld_molina11_uniandes_edu_co/EQLNOAClGmZPqHEsnikAkTwBQ5vvZPJeeqVltoQnUci4pw?e=LltiaR)
 
 ## Escenarios probados con Cypress
